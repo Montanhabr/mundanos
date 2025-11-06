@@ -1,0 +1,314 @@
+[
+  {
+    "tournament_id": 2893,
+    "tournament_name": "European IBJJF Jiu-Jitsu No-Gi Championship 2025",
+    "tournament_day_id": 4329,
+    "page": 1,
+    "mat": 2,
+    "fight_no": 60,
+    "state_code": "QF",
+    "date": "2025-11-02",
+    "time": "05:23 PM",
+    "datetime": "2025-11-02 17:23:00",
+    "weekday": "SUN",
+    "division_text": "Adult / Female / PURPLE / Open Class",
+    "age": "Adult",
+    "gender": "FEMALE",
+    "belt": "PURPLE",
+    "weight": "Open Class",
+    "red": {
+      "name": "Nea Natalia Starast",
+      "club": "Hilti BJJ Turku"
+    },
+    "blue": {
+      "name": "Carmell Selia Otto",
+      "club": "Atos Jiu-Jitsu"
+    }
+  },
+  {
+    "tournament_id": 2893,
+    "tournament_name": "European IBJJF Jiu-Jitsu No-Gi Championship 2025",
+    "tournament_day_id": 4329,
+    "page": 1,
+    "mat": 2,
+    "fight_no": 61,
+    "state_code": "EL2",
+    "date": "2025-11-02",
+    "time": "05:32 PM",
+    "datetime": "2025-11-02 17:32:00",
+    "weekday": "SUN",
+    "division_text": "Adult / Female / PURPLE / Open Class",
+    "age": "Adult",
+    "gender": "FEMALE",
+    "belt": "PURPLE",
+    "weight": "Open Class",
+    "red": {
+      "name": "Anna Aurora Katriina Juutilainen",
+      "club": "Hilti BJJ Kuopio"
+    },
+    "blue": {
+      "name": "Daniela Valera Muñoz",
+      "club": "Gracie Barra"
+    }
+  },
+  {
+    "tournament_id": 2893,
+    "tournament_name": "European IBJJF Jiu-Jitsu No-Gi Championship 2025",
+    "tournament_day_id": 4329,
+    "page": 1,
+    "mat": 2,
+    "fight_no": 62,
+    "state_code": "QF",
+    "date": "2025-11-02",
+    "time": "05:34 PM",
+    "datetime": "2025-11-02 17:34:00",
+    "weekday": "SUN",
+    "division_text": "Adult / Female / PURPLE / Open Class",
+    "age": "Adult",
+    "gender": "FEMALE",
+    "belt": "PURPLE",
+    "weight": "Open Class",
+    "red": {
+      "name": "Rana Louise Willink",
+      "club": "Legion American Jiu-Jitsu"
+    },
+    "blue": {
+      "name": null,
+      "club": null
+    }
+  },
+  {
+    "tournament_id": 2893,
+    "tournament_name": "European IBJJF Jiu-Jitsu No-Gi Championship 2025",
+    "tournament_day_id": 4329,
+    "page": 1,
+    "mat": 3,
+    "fight_no": 61,
+    "state_code": "QF",
+    "date": "2025-11-02",
+    "time": "05:24 PM",
+    "datetime": "2025-11-02 17:24:00",
+    "weekday": "SUN",
+    "division_text": "Adult / Male / PURPLE / Open Class",
+    "age": "Adult",
+    "gender": "MALE",
+    "belt": "PURPLE",
+    "weight": "Open Class",
+    "red": {
+      "name": "Hugo Heimar Vaarend",
+      "club": "Estum Jiu-Jitsu"
+    },
+    "blue": {
+      "name": "Guy Burshtein",
+      "club": "Nxtgen Jiu-Jitsu"
+    }
+  },
+  {
+    "tournament_id": 2893,
+    "tournament_name": "European IBJJF Jiu-Jitsu No-Gi Championship 2025",
+    "tournament_day_id": 4329,
+    "page": 1,
+    "mat": 4,
+    "fight_no": 59,
+    "state_code": "QF",
+    "date": "2025-11-02",
+    "time": "05:24 PM",
+    "datetime": "2025-11-02 17:24:00",
+    "weekday": "SUN",
+    "division_text": "Adult / Male / PURPLE / Open Class",
+    "age": "Adult",
+    "gender": "MALE",
+    "belt": "PURPLE",
+    "weight": "Open Class",
+    "red": {
+      "name": "Edvin Pihlak",
+      "club": "Sigma Jiu-Jitsu"
+    },
+    "blue": {
+      "name": "Armin Douzali",
+      "club": "Team Carvalho Norway"
+    }
+  },
+  {
+    "tournament_id": 2893,
+    "tournament_name": "European IBJJF Jiu-Jitsu No-Gi Championship 2025",
+    "tournament_day_id": 4329,
+    "page": 2,
+    "mat": 8,
+    "fight_no": 57,
+    "state_code": "QF",
+    "date": "2025-11-02",
+    "time": "05:30 PM",
+    "datetime": "2025-11-02 17:30:00",
+    "weekday": "SUN",
+    "division_text": "Master 5 / Male / BLACK / Open Class",
+    "age": "Master 5",
+    "gender": "MALE",
+    "belt": "BLACK",
+    "weight": "Open Class",
+    "red": {
+      "name": "Christopher Allen Easter",
+      "club": "San Antonio Jiu-Jitsu Syndicate"
+    },
+    "blue": {
+      "name": "Thomas Robert Georges Lequeux",
+      "club": "Respire Jiu-Jitsu Internacional"
+    }
+  },
+  {
+    "tournament_id": 2986,
+    "tournament_name": "Recife International Open IBJJF Jiu-Jitsu Championship 2025",
+    "tournament_day_id": 4359,
+    "page": 2,
+    "mat": 6,
+    "fight_no": 1,
+    "state_code": "F",
+    "date": "2025-11-01",
+    "time": "09:33 AM",
+    "datetime": "2025-11-01 09:33:00",
+    "weekday": "SAT",
+    "division_text": "Adult / Female / BLUE / Rooster",
+    "age": "Adult",
+    "gender": "FEMALE",
+    "belt": "BLUE",
+    "weight": "Rooster",
+    "red": {
+      "name": "Brisianeis Eulalia de Sá Figueiredo",
+      "club": "ZR Team Association"
+    },
+    "blue": {
+      "name": "Ana Clara de Oliveira Araujo",
+      "club": "Gracie Barra"
+    }
+  },
+  {
+    "tournament_id": 2986,
+    "tournament_name": "Recife International Open IBJJF Jiu-Jitsu Championship 2025",
+    "tournament_day_id": 4359,
+    "page": 2,
+    "mat": 6,
+    "fight_no": 61,
+    "state_code": "SF",
+    "date": "2025-11-01",
+    "time": "05:50 PM",
+    "datetime": "2025-11-01 17:50:00",
+    "weekday": "SAT",
+    "division_text": "Master 3 / Female / BLACK / Open Class",
+    "age": "Master 3",
+    "gender": "FEMALE",
+    "belt": "BLACK",
+    "weight": "Open Class",
+    "red": {
+      "name": "Simone Alves dos Santos Ferreira",
+      "club": "Gracie Barra"
+    },
+    "blue": {
+      "name": "Lindacy Artulino do Nascimento",
+      "club": "GF Team"
+    }
+  },
+  {
+    "tournament_id": 2986,
+    "tournament_name": "Recife International Open IBJJF Jiu-Jitsu Championship 2025",
+    "tournament_day_id": 4359,
+    "page": 2,
+    "mat": 7,
+    "fight_no": 1,
+    "state_code": "SF",
+    "date": "2025-11-01",
+    "time": "09:30 AM",
+    "datetime": "2025-11-01 09:30:00",
+    "weekday": "SAT",
+    "division_text": "Adult / Female / BLUE / Middle",
+    "age": "Adult",
+    "gender": "FEMALE",
+    "belt": "BLUE",
+    "weight": "Middle",
+    "red": {
+      "name": "Maria Eloisa de Lima Lemos",
+      "club": "Nordeste Fight"
+    },
+    "blue": {
+      "name": "Isadora Almeida Borba",
+      "club": "Nova União"
+    }
+  },
+  {
+    "tournament_id": 2986,
+    "tournament_name": "Recife International Open IBJJF Jiu-Jitsu Championship 2025",
+    "tournament_day_id": 4359,
+    "page": 3,
+    "mat": 10,
+    "fight_no": 1,
+    "state_code": "QF",
+    "date": "2025-11-01",
+    "time": "09:30 AM",
+    "datetime": "2025-11-01 09:30:00",
+    "weekday": "SAT",
+    "division_text": "Adult / Male / BLACK / Medium Heavy",
+    "age": "Adult",
+    "gender": "MALE",
+    "belt": "BLACK",
+    "weight": "Medium Heavy",
+    "red": {
+      "name": "João Vitor Monteiro Feijó de Melo",
+      "club": "Gracie Barra"
+    },
+    "blue": {
+      "name": "Jhony Geyson da Silva",
+      "club": "Yuri Gomes BJJ"
+    }
+  },
+  {
+    "tournament_id": 2987,
+    "tournament_name": "Recife International Open IBJJF Jiu-Jitsu No-Gi Championship 2025",
+    "tournament_day_id": 4361,
+    "page": 1,
+    "mat": 2,
+    "fight_no": 2,
+    "state_code": "QF",
+    "date": "2025-11-02",
+    "time": "05:35 PM",
+    "datetime": "2025-11-02 17:35:00",
+    "weekday": "SUN",
+    "division_text": "Adult / Male / BLUE / Light",
+    "age": "Adult",
+    "gender": "MALE",
+    "belt": "BLUE",
+    "weight": "Light",
+    "red": {
+      "name": "George Henrique Paz Soares",
+      "club": "Ares BJJ"
+    },
+    "blue": {
+      "name": "Kaio César Coutinho Silva",
+      "club": "Nova União"
+    }
+  },
+  {
+    "tournament_id": 2987,
+    "tournament_name": "Recife International Open IBJJF Jiu-Jitsu No-Gi Championship 2025",
+    "tournament_day_id": 4361,
+    "page": 2,
+    "mat": 6,
+    "fight_no": 4,
+    "state_code": "SF",
+    "date": "2025-11-02",
+    "time": "05:34 PM",
+    "datetime": "2025-11-02 17:34:00",
+    "weekday": "SUN",
+    "division_text": "Adult / Male / PURPLE / Light",
+    "age": "Adult",
+    "gender": "MALE",
+    "belt": "PURPLE",
+    "weight": "Light",
+    "red": {
+      "name": "João David Cabó Lemos",
+      "club": "Burton Deyves BJJ Team"
+    },
+    "blue": {
+      "name": "Weslley Inácio de Brito",
+      "club": "ROXBJJ"
+    }
+  }
+]
